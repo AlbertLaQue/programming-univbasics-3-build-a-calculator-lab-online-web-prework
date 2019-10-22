@@ -20,6 +20,6 @@ return num1%num2
 end
 
 def square_root(num)
-  return math.sqrt (num)
+   math.sqrt(num)
 
 end
