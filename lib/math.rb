@@ -13,7 +13,7 @@ end
 def division(num1, num2)
   num1 = 50
   num2 = 2 
-  return = num1/num2
+  return =  num1 / num2
 
 end
 
